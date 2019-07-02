@@ -1,6 +1,8 @@
 # simple-web-scraper
-  Fetches commodity futures data (extracts only date/price fields, here), and locally stores into a .csv file -- fetch.py
-  Flask application starts an API web-service on port 8080 (GET), which returns scraped data with selected descriptive        statistics of price points -- api.py
+
+  Fetches commodity futures data (extracts only date/price fields, here), and locally stores into a .csv file relative to the commodity type/name -- (fetch.py)
+  
+  Flask application starts an API web-service on port 8080 (GET), which returns scraped data with selected descriptive        statistics of price points -- (api.py)
   
   Example API call (input):
   
