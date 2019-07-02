@@ -20,3 +20,10 @@
     "variance": 231.39 
     } 
 
+
+  Main packages used: 
+  
+    1. BeautifulSoup
+    2. Flask
+    3. Pandas
+    4. requests
