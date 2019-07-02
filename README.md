@@ -1,4 +1,4 @@
-# simple-web-scraper
+# Sample Web Scraper
 
   Fetches commodity futures data (extracts only date/price fields, here), and locally stores into a .csv file relative to the commodity type/name -- (fetch.py)
   
